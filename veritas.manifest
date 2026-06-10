@@ -1,0 +1,7 @@
+a7fa89bedb19c382c088745f43e3bf77f43d02ab4fdfe25e5ccca2bec04075e1  /data/data/com.termux/files/home/modules.d/10-test.sh
+09bd448c0bf0f213c2e91e2767d2532749e08c32bb6f1979736f6cd838251ce5  /data/data/com.termux/files/home/modules.d/01-hardware-check.sh
+cad6d24c2fe8247394fa5f016cea693722413d72e00cbc471dea3ed837ec3b51  /data/data/com.termux/files/home/modules.d/03-pqc-attestation.sh
+ac34e4d6452d340a3c12d511d6cf247a32a6241d0a9c960f08a4c6305ac16edc  /data/data/com.termux/files/home/modules.d/04-network-handshake.sh
+07e367cc50d403f9a7270a6510fff321b7acea1f946aae7e3b256e4efd32bcc4  /data/data/com.termux/files/home/modules.d/02-nicholas-handshake.sh
+7cae039427fd5c438de8944ae276d76efd0c6327d08dd930fc6635dd56277a9e  /data/data/com.termux/files/home/veritas.sh
+8346efd819ce44c9b2605ecfb14b6c422ae55dd372de6fa6fdb8dd9193ef727e  /data/data/com.termux/files/home/core.env
